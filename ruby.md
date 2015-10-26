@@ -56,9 +56,9 @@ options[:font_size]  # => 10
 grades = Hash.new
 grades["Dorothy Doe"] = 9
 
-#setting default
+##setting default
 grades = Hash.new(0)
-#or
+##or
 grades.default = 0
 
 puts grades["Jane Doe"] # => 0
