@@ -13,7 +13,7 @@ tab1[0..2] #=> [1, "dwa", 3.0]
 tab1[0..-3] #=> [1]
 tab1[0..-2] #=> [1, "dwa"]
 
-tab2 = Array.new(3, 1, 4, 5, 6, 8)
+tab2 = [3, 1, 4, 5, 6, 8]
 tab2.first #=> 3
 tab2.last #=> 8
 tab2.take(3) #=> [3, 1, 4]
@@ -21,15 +21,11 @@ tab2.drop(3) #=> [5, 6, 8]
 tab2.count #=> 6
 
 ##tworzenie wielowymiarowych tablic
-pustaTab = Array.new(3) { Array.new(3) }
-print pustaTab
-puts
+pustaTab = Array.new(3) { Array.new(3) } #=> [[nil, nil, nil], [nil, nil, nil], [nil, nil, nil]]
 
-##sposoby wyswietlania puts
-tarnus = Array.new(2)
-tarnus[1] = "Razem"
-tarnus[0] = "Osobno"
-puts tarnus[0]+tarnus[1]
-puts tarnus[1], tarnus[0]
+arr = Array.new(2)
+arr[1] = "Razem"
+arr[0] = "Osobno"
+arr[0]+arr[1] #=> RazemOsobno
 
 ```
