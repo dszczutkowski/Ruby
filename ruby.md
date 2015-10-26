@@ -38,7 +38,7 @@ arr          #=> ['one', 0, 'cos', 7, 'sub']
 
 ###Enumerable
 
-```
+```ruby
 a = [3, 11, 14, 25, 28, 29, 29, 41, 55, 57]
 p a.slice_when {|i, j| 6 < j - i }.to_a
 #=> [[3], [11, 14], [25, 28, 29, 29], [41], [55, 57]]
@@ -46,7 +46,7 @@ p a.slice_when {|i, j| 6 < j - i }.to_a
 
 ###Hash
 
-```
+```ruby
 grades = { "Jane Doe" => 10, "Jim Doe" => 6 }
 
 options = { font_size: 10, font_family: "Arial" }
