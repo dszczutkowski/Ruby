@@ -28,4 +28,10 @@ arr[1] = "Razem"
 arr[0] = "Osobno"
 arr[0]+arr[1] #=> RazemOsobno
 
+arr = ['one', 0, nil, 'cos', 7, 'sub', nil]
+arr.compact  #=> ['one', 0, 'cos', 7, 'sub']
+arr          #=> ['one', 0, nil, 'cos', 7, 'sub', nil]
+arr.compact! #=> ['one', 0, 'cos', 7, 'sub']
+arr          #=> ['one', 0, 'cos', 7, 'sub']
+
 ```
