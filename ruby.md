@@ -1,7 +1,7 @@
 ##RUBY
 
 ###Arrays
-...
+```ruby
 ##implementacja
 tab1 = [1, "dwa", 3.0]
 print tab1
@@ -27,4 +27,5 @@ tarnus[1] = "Razem"
 tarnus[0] = "Osobno"
 puts tarnus[0]+tarnus[1]
 puts tarnus[1], tarnus[0]
-...
+
+```
