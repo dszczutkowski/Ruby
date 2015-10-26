@@ -43,3 +43,24 @@ a = [3, 11, 14, 25, 28, 29, 29, 41, 55, 57]
 p a.slice_when {|i, j| 6 < j - i }.to_a
 #=> [[3], [11, 14], [25, 28, 29, 29], [41], [55, 57]]
 ```
+
+###Hash
+
+```
+grades = { "Jane Doe" => 10, "Jim Doe" => 6 }
+
+options = { font_size: 10, font_family: "Arial" }
+
+options[:font_size]  # => 10
+
+grades = Hash.new
+grades["Dorothy Doe"] = 9
+
+#setting default
+grades = Hash.new(0)
+#or
+grades.default = 0
+
+puts grades["Jane Doe"] # => 0
+
+```
