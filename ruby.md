@@ -14,14 +14,16 @@ tab1[0..2] #=> [1, "dwa", 3.0]
 tab1[0..-3] #=> [1]
 tab1[0..-2] #=> [1, "dwa"]
 
-##metody first i last
-puts tab1.first
-puts tab1.last
-puts tab1.length
-puts tab1.count
+tab2 = [3, 1, 4, 5, 6, 8]
+tab2.first #=> 3
+tab2.last #=> 8
+tab2.take(3) #=> [3, 1, 4]
+tab2.drop(3) #=> [5, 6, 8]
+tab2.count #=> 6
 
-print Array.new(3, "Dawid")
-puts
+
+
+Array.new(3, "Dawid")
 
 ##tworzenie wielowymiarowych tablic
 pustaTab = Array.new(3) { Array.new(3) }
