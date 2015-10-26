@@ -1,6 +1,7 @@
 ##RUBY
 
 ###Arrays
+
 ```ruby
 ##implementacja
 tab1 = [1, "dwa", 3.0]
