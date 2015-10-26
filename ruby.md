@@ -4,8 +4,14 @@
 ```ruby
 ##implementacja
 tab1 = [1, "dwa", 3.0]
-print tab1
-puts
+tab1[2] #=> 3.0
+tab1[1] #=> "dwa"
+tab1[-1] #=> 3.0
+tab1[-2] #=> "dwa"
+tab1[0, 2] #=> [1, "dwa"]
+tab1[0..2] #=> [1, "dwa", 3.0]
+tab1[0..-3] #=> [1]
+tab1[0..-2] #=> [1, "dwa"]
 
 ##metody first i last
 puts tab1.first
