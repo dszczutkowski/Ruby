@@ -45,6 +45,8 @@ p a.slice_when {|i, j| 6 < j - i }.to_a
 
 %w(xyz def abc).sort          #=> ["abc", "def", "xyz"]
 (1..10).sort { |a, b| b <=> a }  #=> [10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+
+%w{pachnie owoc mango}.sort_by { |word| word.length} #=> ["owoc", "mango", "pachnie"]
 ```
 
 ###Hash
