@@ -3,7 +3,6 @@
 ###Arrays
 
 ```ruby
-##implementacja
 tab1 = [1, "dwa", 3.0]
 tab1[2] #=> 3.0
 tab1[1] #=> "dwa"
