@@ -15,5 +15,5 @@ Podręczne linki:
 ## Zadania
 
 1. [ ] [Learn X in Y minutes, where X = Ruby Array/Hash/Enumerable](ruby.md)
-2. [ ] [Coś do przetestowania na początek](Ruby)
-3. [ ] [Program/Biblioteka/Aplikacja WWW](Ruby)
+2. [ ] [Coś do przetestowania na początek](README.md)
+3. [ ] [Program/Biblioteka/Aplikacja WWW](README.md)
