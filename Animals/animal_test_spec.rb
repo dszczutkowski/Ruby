@@ -84,5 +84,5 @@ describe 'Testing Animal Class' do
     end
 
   end
-  
+
 end

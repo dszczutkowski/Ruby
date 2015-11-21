@@ -14,9 +14,15 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Animals@factorial__Animals.coverage" NAME="factorial: Animals Coverage Results" MODIFIED="1448128860164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Animals" />
+    <SUITE FILE_PATH="coverage/Animals@factorial_should_be_defined__Animals.coverage" NAME="factorial should be defined: Animals Coverage Results" MODIFIED="1448125713661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Animals" />
     <SUITE FILE_PATH="coverage/Animals@Testing_Animal_Class__Animals.coverage" NAME="Testing Animal Class: Animals Coverage Results" MODIFIED="1448122484131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Animals" />
+    <SUITE FILE_PATH="coverage/Animals@factorial.coverage" NAME="factorial Coverage Results" MODIFIED="1448128844164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Animals" />
     <SUITE FILE_PATH="coverage/Animals@Testing_Animal_Class_should_get_initialized_name__Animals.coverage" NAME="Testing Animal Class should get initialized name: Animals Coverage Results" MODIFIED="1448122456257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Animals" />
+    <SUITE FILE_PATH="coverage/Animals@factorial_should_not_raise_error__Animals.coverage" NAME="factorial should not raise error: Animals Coverage Results" MODIFIED="1448128855113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Animals" />
     <SUITE FILE_PATH="coverage/Animals@Testing_Animal_Class_should_get_set_values__Animals.coverage" NAME="Testing Animal Class should get set values: Animals Coverage Results" MODIFIED="1448037151171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Animals" />
+    <SUITE FILE_PATH="coverage/Animals@factorial_should_be_always_not_equal__Animals.coverage" NAME="factorial should be always not equal: Animals Coverage Results" MODIFIED="1448127840185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Animals" />
+    <SUITE FILE_PATH="coverage/Animals@_factorial__Animals.coverage" NAME="#factorial: Animals Coverage Results" MODIFIED="1448125877600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Animals" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -37,6 +43,16 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="animal_test_spec.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/animal_test_spec.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="86" column="0" selection-start-line="86" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../README.md">
           <provider selected="true" editor-type-id="text-editor">
@@ -47,11 +63,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="animal_test_spec.rb" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/animal_test_spec.rb">
+      <file leaf-file-name="ruby.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../ruby.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="2.9795275">
-              <caret line="86" column="2" selection-start-line="86" selection-start-column="2" selection-end-line="86" selection-end-column="2" />
+            <state vertical-scroll-proportion="-16.382353">
+              <caret line="89" column="3" selection-start-line="89" selection-start-column="3" selection-end-line="89" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="factorial.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/factorial.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="factorial_test_spec.rb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/factorial_test_spec.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.792126">
+              <caret line="31" column="3" selection-start-line="31" selection-start-column="3" selection-end-line="31" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -64,6 +100,7 @@
       <list>
         <option value="Ruby Class Template" />
         <option value="RSpec Test Template" />
+        <option value="Test-Spec Template" />
       </list>
     </option>
   </component>
@@ -73,6 +110,9 @@
         <option value="$PROJECT_DIR$/animal.rb" />
         <option value="$PROJECT_DIR$/../README.md" />
         <option value="$PROJECT_DIR$/animal_test_spec.rb" />
+        <option value="$PROJECT_DIR$/../ruby.md" />
+        <option value="$PROJECT_DIR$/factorial_test_spec.rb" />
+        <option value="$PROJECT_DIR$/factorial.rb" />
       </list>
     </option>
   </component>
@@ -138,10 +178,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../README.md" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ruby.md" />
   </component>
-  <component name="RunManager" selected="RSpec.Testing Animal Class: Animals">
-    <configuration default="false" name="Testing Animal Class: Animals" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
+  <component name="RunManager" selected="RSpec.factorial: Animals">
+    <configuration default="false" name="factorial: Animals" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
       <predefined_log_file id="RUBY_RSPEC" enabled="true" />
       <module name="Animals" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
@@ -156,10 +196,10 @@
       <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
       <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/animal_test_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/factorial_test_spec.rb" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="Testing Animal Class" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="factorial" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
@@ -170,7 +210,7 @@
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
       <method />
     </configuration>
-    <configuration default="false" name="Testing Animal Class should get set values: Animals" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
+    <configuration default="false" name="#factorial: Animals" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
       <predefined_log_file id="RUBY_RSPEC" enabled="true" />
       <module name="Animals" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
@@ -185,10 +225,10 @@
       <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
       <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/animal_test_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/factorial_test_spec.rb" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="Testing Animal Class should get set values" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="#factorial" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
@@ -199,7 +239,7 @@
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
       <method />
     </configuration>
-    <configuration default="false" name="Testing Animal Class should get initialized name: Animals" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
+    <configuration default="false" name="factorial should be always not equal: Animals" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
       <predefined_log_file id="RUBY_RSPEC" enabled="true" />
       <module name="Animals" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
@@ -214,10 +254,10 @@
       <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
       <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/animal_test_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/factorial_test_spec.rb" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="Testing Animal Class should get initialized name" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="factorial should be always not equal" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
@@ -226,6 +266,50 @@
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="factorial should not raise error: Animals" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
+      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
+      <module name="Animals" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/factorial_test_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="factorial should not raise error" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="factorial" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="Animals" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/factorial.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method />
     </configuration>
     <configuration default="true" type="CucumberRunConfigurationType" factoryName="Cucumber">
@@ -340,16 +424,20 @@
       <envs />
       <method />
     </configuration>
-    <list size="3">
-      <item index="0" class="java.lang.String" itemvalue="RSpec.Testing Animal Class: Animals" />
-      <item index="1" class="java.lang.String" itemvalue="RSpec.Testing Animal Class should get set values: Animals" />
-      <item index="2" class="java.lang.String" itemvalue="RSpec.Testing Animal Class should get initialized name: Animals" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="RSpec.factorial: Animals" />
+      <item index="1" class="java.lang.String" itemvalue="RSpec.#factorial: Animals" />
+      <item index="2" class="java.lang.String" itemvalue="RSpec.factorial should be always not equal: Animals" />
+      <item index="3" class="java.lang.String" itemvalue="RSpec.factorial should not raise error: Animals" />
+      <item index="4" class="java.lang.String" itemvalue="Ruby.factorial" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="RSpec.Testing Animal Class: Animals" />
-        <item index="1" class="java.lang.String" itemvalue="RSpec.Testing Animal Class should get initialized name: Animals" />
-        <item index="2" class="java.lang.String" itemvalue="RSpec.Testing Animal Class should get set values: Animals" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="RSpec.factorial: Animals" />
+        <item index="1" class="java.lang.String" itemvalue="RSpec.factorial should not raise error: Animals" />
+        <item index="2" class="java.lang.String" itemvalue="Ruby.factorial" />
+        <item index="3" class="java.lang.String" itemvalue="RSpec.factorial should be always not equal: Animals" />
+        <item index="4" class="java.lang.String" itemvalue="RSpec.#factorial: Animals" />
       </list>
     </recent_temporary>
   </component>
@@ -367,23 +455,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Testing_Animal_Class__Animals - 2015.11.20 at 17h 13m 30s.xml">
-      <configuration name="Testing Animal Class: Animals" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="factorial__Animals - 2015.11.21 at 18h 31m 37s.xml">
+      <configuration name="factorial: Animals" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="Testing_Animal_Class__Animals - 2015.11.20 at 17h 32m 43s.xml">
-      <configuration name="Testing Animal Class: Animals" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="factorial__Animals - 2015.11.21 at 18h 37m 47s.xml">
+      <configuration name="factorial: Animals" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="Testing_Animal_Class__Animals - 2015.11.21 at 17h 14m 29s.xml">
-      <configuration name="Testing Animal Class: Animals" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="factorial__Animals - 2015.11.21 at 18h 41m 17s.xml">
+      <configuration name="factorial: Animals" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="Testing_Animal_Class__Animals - 2015.11.21 at 17h 14m 44s.xml">
-      <configuration name="Testing Animal Class: Animals" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="factorial__Animals - 2015.11.21 at 18h 43m 33s.xml">
+      <configuration name="factorial: Animals" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="Testing_Animal_Class_should_get_initialized_name__Animals - 2015.11.21 at 17h 14m 16s.xml">
-      <configuration name="Testing Animal Class should get initialized name: Animals" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="factorial__Animals - 2015.11.21 at 19h 01m 00s.xml">
+      <configuration name="factorial: Animals" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="Testing_Animal_Class_should_get_set_values__Animals - 2015.11.20 at 17h 32m 31s.xml">
-      <configuration name="Testing Animal Class should get set values: Animals" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="factorial_should_be_always_not_equal__Animals - 2015.11.21 at 18h 43m 56s.xml">
+      <configuration name="factorial should be always not equal: Animals" configurationId="RSpecRunConfigurationType" />
+    </history-entry>
+    <history-entry file="factorial_should_be_always_not_equal__Animals - 2015.11.21 at 18h 44m 00s.xml">
+      <configuration name="factorial should be always not equal: Animals" configurationId="RSpecRunConfigurationType" />
+    </history-entry>
+    <history-entry file="factorial_should_not_raise_error__Animals - 2015.11.21 at 18h 43m 51s.xml">
+      <configuration name="factorial should not raise error: Animals" configurationId="RSpecRunConfigurationType" />
+    </history-entry>
+    <history-entry file="factorial_should_not_raise_error__Animals - 2015.11.21 at 18h 44m 09s.xml">
+      <configuration name="factorial should not raise error: Animals" configurationId="RSpecRunConfigurationType" />
+    </history-entry>
+    <history-entry file="factorial_should_not_raise_error__Animals - 2015.11.21 at 19h 00m 55s.xml">
+      <configuration name="factorial should not raise error: Animals" configurationId="RSpecRunConfigurationType" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -421,7 +521,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
@@ -449,14 +551,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.0">
-          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/animal.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -465,10 +559,42 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.0">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ruby.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.382353">
+          <caret line="89" column="3" selection-start-line="89" selection-start-column="3" selection-end-line="89" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/animal_test_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="2.9795275">
-          <caret line="86" column="2" selection-start-line="86" selection-start-column="2" selection-end-line="86" selection-end-column="2" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="86" column="0" selection-start-line="86" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/factorial.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/factorial_test_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.792126">
+          <caret line="31" column="3" selection-start-line="31" selection-start-column="3" selection-end-line="31" selection-end-column="3" />
           <folding />
         </state>
       </provider>
