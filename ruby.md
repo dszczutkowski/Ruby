@@ -47,6 +47,19 @@ p a.slice_when {|i, j| 6 < j - i }.to_a
 (1..10).sort { |a, b| b <=> a }  #=> [10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
 
 %w{pachnie owoc mango}.sort_by { |word| word.length} #=> ["owoc", "mango", "pachnie"]
+
+(1..6).group_by { [i] i%3 } #=> {0=>[3, 6], 1=>[1, 4], 2=>[2,5]}
+
+%w[raz dwa trzy].first #=> "raz"
+%w[raz dwa trzy].first(2) #=> ["raz", "dwa"]
+[].first #=> nil
+
+(1..10.each_slice(3) { |a| p a }
+# [1, 2, 3]
+# [4, 5, 6]
+# [7, 8, 9]
+# [10]
+
 ```
 
 ###Hash
