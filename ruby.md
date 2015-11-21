@@ -36,7 +36,7 @@ arr          #=> ['one', 0, 'cos', 7, 'sub']
 
 ```
 
-more about Ruby's Array you can find [here](http://ruby-doc.org/core-2.2.3/Array.html)
+ - more about Ruby's Array you can find [here](http://ruby-doc.org/core-2.2.3/Array.html)
 
 ###Enumerable
 
@@ -64,7 +64,7 @@ p a.slice_when {|i, j| 6 < j - i }.to_a
 
 ```
 
-more about Ruby's Enumerable you can find [here](http://ruby-doc.org/core-2.2.3/Enumerable.html)
+ - more about Ruby's Enumerable you can find [here](http://ruby-doc.org/core-2.2.3/Enumerable.html)
 
 ###Hash
 
@@ -87,4 +87,4 @@ puts grades["Jane Doe"] #=> 0
 
 ```
 
-more about Ruby's Hash you can find [here](http://ruby-doc.org/core-2.2.3/Hash.html)
+ - more about Ruby's Hash you can find [here](http://ruby-doc.org/core-2.2.3/Hash.html)
