@@ -15,5 +15,5 @@ Podręczne linki:
 ## Zadania
 
 1. [x] [Learn X in Y minutes, where X = Ruby Array/Hash/Enumerable](/Zadanie1/ruby.md)
-2. [x] [Klasy w RUBY, silnia](/Zadanie2)
+2. [x] [Klasy w RUBY, silnia](/Zadanie2/tarnustest)
 3. [ ] [Program/Biblioteka/Aplikacja WWW](README.md)
