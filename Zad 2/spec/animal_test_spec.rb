@@ -1,5 +1,5 @@
 require 'rspec'
-require_relative 'animal'
+require_relative '../lib/animal'
 
 describe 'Testing Animal Class' do
 

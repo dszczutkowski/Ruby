@@ -1,7 +1,7 @@
 require 'simplecov'
 SimpleCov.start
 
-require_relative 'factorial'
+require_relative '../lib/factorial'
 
 describe 'factorial' do
   it 'should be defined' do
