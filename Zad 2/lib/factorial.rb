@@ -6,5 +6,3 @@ def fact(n)
     puts 'negative numbers are not domain of a factorial function'
     exit
 end
-
-puts fact(-10)
