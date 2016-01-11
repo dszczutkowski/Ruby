@@ -16,4 +16,4 @@ Podręczne linki:
 
 1. [x] [Learn X in Y minutes, where X = Ruby Array/Hash/Enumerable](/Zad 1/ruby.md)
 2. [x] [Przykladowa klasa w RUBY (get/set), silnia](/Zad 2)
-3. [ ] [Program/Biblioteka/Aplikacja WWW](README.md)
+3. [x] [Program/Biblioteka/Aplikacja WWW](https://github.com/dszczutkowski/Ruby_Projekt3)
